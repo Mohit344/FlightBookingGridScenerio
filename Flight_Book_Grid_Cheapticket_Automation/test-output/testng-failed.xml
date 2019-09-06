@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Main Test Suite]" parallel="tests">
+  <test thread-count="5" name="Grid firefox Test(failed)" parallel="tests">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.cheapticket.grid_flightbook.FlightBookingForOneWay">
+        <methods>
+          <include name="quitDown"/>
+          <include name="readytorun"/>
+          <include name="filesetupReady"/>
+        </methods>
+      </class> <!-- com.cheapticket.grid_flightbook.FlightBookingForOneWay -->
+    </classes>
+  </test> <!-- Grid firefox Test(failed) -->
+  <test thread-count="5" name="Grid chrome Test(failed)" parallel="tests">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.cheapticket.grid_flightbook.FlightBookingForRoundTrip">
+        <methods>
+          <include name="readytorun" invocation-numbers="0"/>
+          <include name="quitDown"/>
+          <include name="filesetUpReady"/>
+        </methods>
+      </class> <!-- com.cheapticket.grid_flightbook.FlightBookingForRoundTrip -->
+    </classes>
+  </test> <!-- Grid chrome Test(failed) -->
+</suite> <!-- Failed suite [Main Test Suite] -->

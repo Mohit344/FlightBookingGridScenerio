@@ -1,0 +1,49 @@
+2019-09-06 19:41:42 INFO  One_Way_Flight_Booking:129 - Passed Successfully
+2019-09-06 19:41:43 INFO  Two_Way_Flight_Booking:135 - Passed Successfully
+2019-09-06 19:46:23 INFO  Two_Way_Flight_Booking:62 - Opening the homeapage
+2019-09-06 19:46:48 INFO  Two_Way_Flight_Booking:86 - openning the travellingdetails
+2019-09-06 19:47:08 INFO  Two_Way_Flight_Booking:135 - Passed Successfully
+2019-09-06 19:49:06 INFO  Two_Way_Flight_Booking:62 - Opening the homeapage
+2019-09-06 19:49:09 INFO  One_Way_Flight_Booking:62 - Opening the homepage
+2019-09-06 19:49:26 INFO  One_Way_Flight_Booking:83 -   passing through the oneway_flightbooking travellersDetail 
+2019-09-06 19:49:32 INFO  Two_Way_Flight_Booking:86 - openning the travellingdetails
+2019-09-06 19:49:41 INFO  One_Way_Flight_Booking:129 - Passed Successfully
+2019-09-06 19:49:49 INFO  Two_Way_Flight_Booking:135 - Passed Successfully
+2019-09-06 19:50:31 INFO  Two_Way_Flight_Booking:62 - Opening the homeapage
+2019-09-06 19:50:33 INFO  One_Way_Flight_Booking:62 - Opening the homepage
+2019-09-06 19:50:51 INFO  One_Way_Flight_Booking:83 -   passing through the oneway_flightbooking travellersDetail 
+2019-09-06 19:50:58 INFO  Two_Way_Flight_Booking:86 - openning the travellingdetails
+2019-09-06 19:51:05 INFO  One_Way_Flight_Booking:129 - Passed Successfully
+2019-09-06 19:51:15 INFO  Two_Way_Flight_Booking:135 - Passed Successfully
+2019-09-06 19:51:46 INFO  Two_Way_Flight_Booking:62 - Opening the homeapage
+2019-09-06 19:52:11 INFO  Two_Way_Flight_Booking:86 - openning the travellingdetails
+2019-09-06 19:52:27 INFO  Two_Way_Flight_Booking:135 - Passed Successfully
+2019-09-06 19:54:36 INFO  Two_Way_Flight_Booking:62 - Opening the homeapage
+2019-09-06 19:54:39 INFO  One_Way_Flight_Booking:62 - Opening the homepage
+2019-09-06 19:54:57 INFO  One_Way_Flight_Booking:83 -   passing through the oneway_flightbooking travellersDetail 
+2019-09-06 19:55:02 INFO  Two_Way_Flight_Booking:86 - openning the travellingdetails
+2019-09-06 19:55:10 INFO  One_Way_Flight_Booking:129 - Passed Successfully
+2019-09-06 19:55:18 INFO  Two_Way_Flight_Booking:135 - Passed Successfully
+2019-09-06 19:55:55 INFO  Two_Way_Flight_Booking:62 - Opening the homeapage
+2019-09-06 19:55:58 INFO  One_Way_Flight_Booking:62 - Opening the homepage
+2019-09-06 19:56:14 INFO  One_Way_Flight_Booking:83 -   passing through the oneway_flightbooking travellersDetail 
+2019-09-06 19:56:20 INFO  Two_Way_Flight_Booking:86 - openning the travellingdetails
+2019-09-06 19:56:27 INFO  One_Way_Flight_Booking:129 - Passed Successfully
+2019-09-06 19:56:36 INFO  Two_Way_Flight_Booking:135 - Passed Successfully
+2019-09-06 19:56:57 INFO  Two_Way_Flight_Booking:62 - Opening the homeapage
+2019-09-06 19:57:21 INFO  Two_Way_Flight_Booking:86 - openning the travellingdetails
+2019-09-06 19:57:36 INFO  Two_Way_Flight_Booking:135 - Passed Successfully
+2019-09-06 20:03:59 INFO  Two_Way_Flight_Booking:62 - Opening the homeapage
+2019-09-06 20:04:02 INFO  One_Way_Flight_Booking:62 - Opening the homepage
+2019-09-06 20:04:20 INFO  One_Way_Flight_Booking:83 -   passing through the oneway_flightbooking travellersDetail 
+2019-09-06 20:04:26 INFO  Two_Way_Flight_Booking:86 - openning the travellingdetails
+2019-09-06 20:04:34 INFO  One_Way_Flight_Booking:129 - Passed Successfully
+2019-09-06 20:04:45 INFO  Two_Way_Flight_Booking:135 - Passed Successfully
+2019-09-06 21:30:32 INFO  FlightBookingForRoundTrip:62 - Opening the homeapage
+2019-09-06 21:30:36 INFO  FlightBookingForOneWay:62 - Opening the homepage
+2019-09-06 21:30:54 INFO  FlightBookingForOneWay:83 -   passing through the oneway_flightbooking travellersDetail 
+2019-09-06 21:30:59 INFO  FlightBookingForRoundTrip:86 - openning the travellingdetails
+2019-09-06 21:31:00 INFO  FlightBookingForOneWay:129 - Passed Successfully
+2019-09-06 21:31:18 INFO  FlightBookingForRoundTrip:135 - Passed Successfully
+2019-09-06 21:32:01 INFO  FlightBookingForRoundTrip:62 - Opening the homeapage
+2019-09-06 21:32:14 INFO  FlightBookingForRoundTrip:135 - Passed Successfully
